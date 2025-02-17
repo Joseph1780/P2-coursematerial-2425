@@ -5,6 +5,9 @@ class A:
     def e(self):
         self.c()
 
+   
+
+
 
 class B(A):
     def b(self):
